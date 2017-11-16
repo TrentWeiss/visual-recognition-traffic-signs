@@ -1,0 +1,2 @@
+#!/bin/bash
+gcloud compute --project "x-entropy-186017" ssh --zone "us-east1-c" "cvr-project"
