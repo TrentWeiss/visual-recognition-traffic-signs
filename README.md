@@ -4,9 +4,9 @@ Mostly serves as a central location for several submodules.
 
 Upon cloning run the following:
 
-'''Shell
+``` bash
 git submodule update --init
-'''
+```
 To pull the most recent submodule commits.
 
 
