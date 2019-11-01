@@ -1,0 +1,6 @@
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/Electric-Turtle/darknet.git
+[submodule "yolo2-pytorch"]
+	path = yolo2-pytorch
+	url = https://github.com/Electric-Turtle/yolo2-pytorch.git
